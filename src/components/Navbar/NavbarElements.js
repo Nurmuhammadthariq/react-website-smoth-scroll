@@ -4,7 +4,7 @@ import { Link as LinkS } from 'react-scroll'
 
 export const Nav = styled.nav`
   background: #000;
-  height: 4rem;
+  height: 5rem;
   margin-top: -80px;
   display: flex;
   justify-content: center;

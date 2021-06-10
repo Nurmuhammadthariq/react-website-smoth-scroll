@@ -31,7 +31,6 @@ const Info = ({
   dark,
   dark2,
 }) => {
-  console.log(img)
   return (
     <InfoContainer lightBg={lightBg} id={id}>
       <InfoWrapper>
